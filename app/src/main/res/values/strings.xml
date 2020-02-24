@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tentang Saya</string>
+    <string name="action_settings">Settings</string>
+    <string name="biodata">Tentang Saya</string>
+    <string name="tentang_saya">Kata-kata Motivasi \n \n
+    1. "Keberanian tidak selalu mengaum, kadang-kadang itu adalah suara tenang di akhir hari berbisik 'Aku akan mencoba lagi besok" - Mary Anne Radmacher \n
+
+    2. "Sukses bukanlah akhir, kegagalan bukanlah hal yang fatal. Itu adalah keberanian untuk melanjutkan yang diperhitungkan." - Winston Churchill \n
+
+    3. "Kunci untuk menjadi bahagia adalah mengetahui bahwa kamu memiliki kekuatan untuk memilih apa yang harus diperjuangkan dan apa yang harus dilepaskan." - Dodinsky \n
+
+    4. "Ingat, untuk semua yang kamu hilangkan, kamu telah mendapatkan sesuatu yang lain. Tanpa gelap, kamu tidak akan pernah melihat bintang-bintang." \n
+
+    5. "Jika rencana itu tidak berhasil, ubah rencana itu tetapi jangan pernah ubah tujuannya." </string> \n
+    <string name="hint_image">Ini Foto</string>
+    <string name="button">True</string>
+</resources>
